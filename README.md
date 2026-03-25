@@ -69,11 +69,6 @@ The dashboard enables users to explore patterns across **age, gender, and health
 
 ---
 
-##  Dashboard Preview
-
-*(Add your Power BI dashboard screenshot here)*
-
----
 
 ##  Getting Started
 
