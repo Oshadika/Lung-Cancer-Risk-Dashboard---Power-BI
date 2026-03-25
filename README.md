@@ -11,7 +11,8 @@ Identify major risk factors contributing to lung cancer
 Analyze symptom frequency among patients
 Compare lung cancer distribution across demographics
 Deliver insights through an interactive and user-friendly dashboard
-🛠 Tools & Technologies
+
+Tools & Technologies
 Power BI (Dashboard Development)
 Power Query (Data Transformation)
 DAX (Measures & Calculations)
